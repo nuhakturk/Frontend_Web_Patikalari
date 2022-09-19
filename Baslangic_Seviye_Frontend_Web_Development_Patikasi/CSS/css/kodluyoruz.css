@@ -1,23 +1,37 @@
-/* Layout
+/******************* Layout *******************/
 
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
 
-*/
-body {
-    background-color: black;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-}
+h1 {
+    font-size: 30px;
 
-h2 {
-    color:red;
-    font-size: 74px;
-    text-transform: uppercase;
 }
 
 p {
+    font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #686767;
+}
+
+#first-article {
     font-size: 40px;
 }
 
-ul {
-    color: blue;
+.text-red {
+    color: red;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
 }
