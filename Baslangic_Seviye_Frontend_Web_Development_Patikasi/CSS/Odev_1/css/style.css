@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+section {
+    background-color: rgb(87, 87, 87);
+    border-radius: 5px;
+    padding: 20px;
+    list-style-position: inside;
+}
+
+div {
+    margin-left: 50px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+
+a {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: brown;
+}
+a:visited{
+    color: inherit;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+.logo {
+    font-family: 'Bungee Spice', cursive;
+    font-size: 30px;
+    background-color: darkgray;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+}
+
+.example {
+    background-color: rgb(125, 125, 125);
+    border-radius: 5px;
+    color:blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.navlink {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: chocolate;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.ls-x-small {
+    margin-left: 25px;
+}
+
+.ls-small {
+    margin-left: 50px;
+}
+
+.ls-medium {
+    margin-left: 100px;
+}
+
+.ls-large {
+    margin-left: 150px;
+}
+
+.ls-x-large {
+    margin-left: 200px;
+}
+
+.ls-xx-large {
+    margin-left: 250px;
+}
