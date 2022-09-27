@@ -1,0 +1,47 @@
+.logo {
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+.example {
+    background-color: rgb(125, 125, 125);
+    border-radius: 5px;
+    color:blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.card-size{
+    width: 100%;
+    height: 125px;
+}
+
+.bg-color{
+    background-color: #E9ECEF;
+}
+
+.navlink {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: chocolate;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.navlink:hover {
+    background-color: brown;
+    text-decoration: none;
+}
+a:visited{
+    color: inherit;
+    text-decoration: none;
+}
